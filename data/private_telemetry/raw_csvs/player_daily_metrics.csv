@@ -1,0 +1,121 @@
+date,player_id,player_name,role,session_type,overs_bowled,balls_bowled,total_distance_km,high_speed_running_m,sprint_distance_m,player_load,run_up_velocity_kmh,acute_workload,chronic_workload,acwr,rpe,sleep_hours,lumbar_soreness,hamstring_soreness
+2026-09-01,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,0,0,3.69,139,0,276.8,0.0,13.1,17.0,0.77,2,7.8,3,1
+2026-09-01,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,3,18,9.25,1110,278,701.5,24.9,14.5,14.1,1.03,4,7.3,1,3
+2026-09-01,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,4,24,8.11,973,243,639.7,12.6,25.1,25.3,0.99,7,7.4,3,2
+2026-09-01,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,2.69,50,0,188.3,0.0,15.7,18.1,0.87,2,7.2,2,2
+2026-09-02,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,0,0,2.73,113,0,204.8,0.0,16.6,15.7,1.06,2,7.6,3,2
+2026-09-02,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,2.16,50,0,151.2,0.0,12.6,14.9,0.85,4,7.1,1,1
+2026-09-02,Player 12,Rashid Khan,Right-arm Leg Spinner,Net Session,6,36,7.33,880,220,621.1,12.8,21.6,24.1,0.9,6,8.0,2,3
+2026-09-02,Player 7,Mitchell Stark,Left-arm Fast Bowler,Net Session,7,42,9.2,1104,276,770.0,28.5,14.1,18.1,0.78,5,8.1,3,3
+2026-09-03,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Strength & Conditioning,6,36,13.34,2397,839,1132.5,26.7,16.0,16.3,0.98,4,8.3,1,3
+2026-09-03,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,2.29,50,0,160.3,0.0,17.2,15.9,1.08,2,7.7,3,1
+2026-09-03,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,3.17,50,0,221.9,0.0,24.2,24.3,1.0,4,7.8,3,2
+2026-09-03,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,2.31,50,0,161.7,0.0,18.3,19.6,0.93,2,7.7,3,1
+2026-09-04,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,5,30,13.06,1839,644,1089.5,29.7,17.0,16.6,1.02,4,7.9,2,3
+2026-09-04,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,7,42,9.61,1153,288,798.7,24.0,13.1,14.5,0.9,6,7.5,3,3
+2026-09-04,Player 12,Rashid Khan,Right-arm Leg Spinner,Rest Day,0,0,3.68,50,0,257.6,0.0,19.7,24.9,0.79,4,7.8,1,3
+2026-09-04,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,3.06,50,0,214.2,0.0,16.8,19.3,0.87,2,8.1,2,1
+2026-09-05,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Rest Day,0,0,4.08,81,0,306.0,0.0,16.6,17.3,0.96,2,7.5,2,1
+2026-09-05,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,3.52,50,0,246.4,0.0,14.4,14.2,1.01,4,7.1,1,1
+2026-09-05,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,3.21,50,0,224.7,0.0,20.2,24.6,0.82,4,8.4,2,1
+2026-09-05,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,3.8,50,0,266.0,0.0,17.7,18.1,0.98,4,7.6,2,2
+2026-09-06,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,4,24,8.88,1635,572,754.0,27.2,14.9,16.0,0.93,5,7.8,1,1
+2026-09-06,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,3,18,9.62,1154,288,727.4,26.4,12.9,15.5,0.83,6,7.8,1,3
+2026-09-06,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,4,24,8.34,1001,250,655.8,13.7,19.7,24.3,0.81,7,7.3,2,3
+2026-09-06,Player 7,Mitchell Stark,Left-arm Fast Bowler,Net Session,3,18,8.68,1042,260,661.6,24.9,18.6,17.3,1.08,4,8.1,2,1
+2026-09-07,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,4,24,11.42,1639,574,944.5,29.3,16.6,16.4,1.01,6,7.7,2,3
+2026-09-07,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,3,18,6.82,818,204,531.4,28.1,14.4,16.6,0.87,5,7.6,1,1
+2026-09-07,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,5,30,9.59,1151,288,761.3,14.2,25.7,26.0,0.99,7,7.6,2,1
+2026-09-07,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,3.5,50,0,245.0,0.0,17.1,18.6,0.92,3,8.5,1,1
+2026-09-08,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,5,30,13.01,1884,659,1085.8,28.2,14.7,15.6,0.94,7,8.4,3,1
+2026-09-08,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,2.08,50,0,145.6,0.0,15.0,15.7,0.96,3,8.4,1,1
+2026-09-08,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,7,42,7.33,880,220,639.1,13.3,20.8,25.0,0.83,8,7.5,3,1
+2026-09-08,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,3.24,50,0,226.8,0.0,19.6,17.0,1.15,3,8.4,2,3
+2026-09-09,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,0,0,4.2,138,0,315.0,0.0,13.3,17.4,0.76,2,7.7,3,2
+2026-09-09,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,3.97,50,0,277.9,0.0,15.9,15.8,1.01,2,8.3,2,3
+2026-09-09,Player 12,Rashid Khan,Right-arm Leg Spinner,Net Session,7,42,9.71,1165,291,805.7,15.6,25.1,23.8,1.05,6,7.2,3,1
+2026-09-09,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,3.71,50,0,259.7,0.0,15.4,19.1,0.81,3,7.3,3,3
+2026-09-10,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,6,36,9.19,1917,671,821.2,27.6,16.1,15.6,1.03,4,8.1,1,1
+2026-09-10,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,7,42,8.73,1048,262,737.1,28.1,11.5,16.6,0.69,7,7.0,3,2
+2026-09-10,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,3.94,50,0,275.8,0.0,21.6,25.8,0.84,3,7.1,1,1
+2026-09-10,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,3.77,50,0,263.9,0.0,13.7,19.3,0.71,2,7.4,3,2
+2026-09-11,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Strength & Conditioning,4,24,13.43,2634,922,1095.2,27.6,12.1,17.0,0.71,5,8.4,1,3
+2026-09-11,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,3.72,50,0,260.4,0.0,11.8,16.6,0.71,3,8.2,1,1
+2026-09-11,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,2.05,50,0,143.5,0.0,24.6,23.7,1.04,3,7.5,2,1
+2026-09-11,Player 7,Mitchell Stark,Left-arm Fast Bowler,Match,5,30,10.91,1309,327,853.7,25.8,15.0,18.9,0.79,6,8.5,1,3
+2026-09-12,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Rest Day,0,0,4.41,77,0,330.8,0.0,16.9,15.9,1.06,2,7.6,1,1
+2026-09-12,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,5,30,7.27,872,218,598.9,26.6,14.6,15.2,0.96,6,7.9,2,3
+2026-09-12,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,3,18,8.16,979,245,625.2,12.8,25.6,25.2,1.02,8,8.0,3,3
+2026-09-12,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,3.01,50,0,210.7,0.0,13.9,19.7,0.71,4,8.0,2,3
+2026-09-13,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,6,36,12.09,2457,860,1038.8,29.6,12.6,16.3,0.77,7,7.8,3,3
+2026-09-13,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,3.57,50,0,249.9,0.0,13.1,14.6,0.9,3,8.3,3,3
+2026-09-13,Player 12,Rashid Khan,Right-arm Leg Spinner,Rest Day,0,0,3.8,50,0,266.0,0.0,20.5,24.4,0.84,3,7.7,2,3
+2026-09-13,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,2.19,50,0,153.3,0.0,17.6,18.9,0.93,4,7.4,1,1
+2026-09-14,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Rest Day,0,0,4.46,111,0,334.5,0.0,12.7,15.6,0.81,2,8.3,1,1
+2026-09-14,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,6,36,9.44,1133,283,768.8,24.7,13.7,15.2,0.9,8,8.1,1,1
+2026-09-14,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,4,24,8.28,994,248,651.6,15.4,19.4,23.7,0.82,5,7.8,3,2
+2026-09-14,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,3.81,50,0,266.7,0.0,19.2,18.3,1.05,3,8.2,3,2
+2026-09-15,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Strength & Conditioning,0,0,3.91,102,0,293.2,0.0,13.2,16.8,0.79,2,7.8,2,3
+2026-09-15,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,2.64,50,0,184.8,0.0,13.0,14.8,0.88,3,7.1,2,3
+2026-09-15,Player 12,Rashid Khan,Right-arm Leg Spinner,Net Session,4,24,7.65,918,230,607.5,13.7,20.1,23.6,0.85,5,7.6,1,2
+2026-09-15,Player 7,Mitchell Stark,Left-arm Fast Bowler,Match,3,18,10.4,1248,312,782.0,24.1,18.4,19.8,0.93,5,7.6,2,3
+2026-09-16,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Strength & Conditioning,0,0,2.75,89,0,206.2,0.0,19.8,15.0,1.32,4,7.5,3,2
+2026-09-16,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,3.34,50,0,233.8,0.0,14.4,15.2,0.95,3,7.4,1,2
+2026-09-16,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,3.18,50,0,222.6,0.0,22.7,25.7,0.88,3,8.5,1,3
+2026-09-16,Player 7,Mitchell Stark,Left-arm Fast Bowler,Net Session,3,18,8.27,992,248,632.9,25.5,14.3,17.8,0.8,7,8.3,1,2
+2026-09-17,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,6,36,12.93,2236,783,1101.8,27.9,19.9,15.0,1.33,6,7.3,3,3
+2026-09-17,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,5,30,7.24,869,217,596.8,24.1,17.7,14.1,1.26,5,7.1,3,1
+2026-09-17,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,2.93,50,0,205.1,0.0,19.8,25.8,0.77,2,7.7,1,2
+2026-09-17,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,3.64,50,0,254.8,0.0,18.2,17.3,1.05,2,7.9,3,2
+2026-09-18,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Strength & Conditioning,0,0,3.44,141,0,258.0,0.0,19.8,15.0,1.32,4,7.6,2,2
+2026-09-18,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,4,24,10.25,1230,308,789.5,27.5,15.4,14.3,1.08,4,8.0,3,3
+2026-09-18,Player 12,Rashid Khan,Right-arm Leg Spinner,Net Session,7,42,6.06,727,182,550.2,14.6,23.6,23.2,1.02,4,7.8,2,2
+2026-09-18,Player 7,Mitchell Stark,Left-arm Fast Bowler,Match,3,18,9.67,1160,290,730.9,26.0,18.8,19.1,0.98,7,8.0,2,3
+2026-09-19,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Net Session,6,36,10.96,2168,759,954.0,29.1,19.8,15.0,1.32,6,7.6,3,3
+2026-09-19,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,2.49,50,0,174.3,0.0,11.6,16.6,0.7,3,8.2,1,2
+2026-09-19,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,5,30,7.7,924,231,629.0,15.2,20.3,23.6,0.86,4,8.3,2,3
+2026-09-19,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,2.81,50,0,196.7,0.0,14.3,17.7,0.81,4,7.8,1,3
+2026-09-20,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Strength & Conditioning,0,0,3.23,129,0,242.2,0.0,18.9,15.0,1.26,4,7.7,2,1
+2026-09-20,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,2.95,50,0,206.5,0.0,13.1,15.7,0.83,2,8.0,2,3
+2026-09-20,Player 12,Rashid Khan,Right-arm Leg Spinner,Rest Day,0,0,2.61,50,0,182.7,0.0,21.5,24.4,0.88,3,7.8,3,1
+2026-09-20,Player 7,Mitchell Stark,Left-arm Fast Bowler,Net Session,4,24,9.69,1163,291,750.3,24.9,19.7,19.1,1.03,6,8.1,1,2
+2026-09-21,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),First-Class 4-Day Match,0,0,4.45,133,0,333.8,0.0,28.0,16.2,1.73,10,6.3,5,2
+2026-09-21,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,2.09,50,0,146.3,0.0,16.0,14.4,1.11,3,7.5,1,1
+2026-09-21,Player 12,Rashid Khan,Right-arm Leg Spinner,Rest Day,0,0,2.02,50,0,141.4,0.0,24.3,23.3,1.04,4,8.0,1,2
+2026-09-21,Player 7,Mitchell Stark,Left-arm Fast Bowler,Match,6,36,10.11,1213,303,815.7,26.1,13.4,19.8,0.68,7,7.3,2,2
+2026-09-22,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),First-Class 4-Day Match,9,54,9.3,1830,640,895.5,28.8,30.5,16.2,1.88,8,6.3,6,2
+2026-09-22,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,4,24,8.61,1033,258,674.7,25.0,15.2,16.4,0.93,4,8.1,3,2
+2026-09-22,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,5,30,10.74,1289,322,841.8,15.0,23.3,24.8,0.94,8,7.5,2,1
+2026-09-22,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,2.31,50,0,161.7,0.0,14.7,18.7,0.79,3,7.1,3,2
+2026-09-23,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),First-Class 4-Day Match,9,54,9.73,1844,645,927.8,27.5,33.0,16.2,2.04,10,6.3,8,3
+2026-09-23,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,3,18,8.13,976,244,623.1,28.2,15.4,16.0,0.96,5,8.2,2,3
+2026-09-23,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,2.33,50,0,163.1,0.0,24.8,23.2,1.07,4,8.4,1,2
+2026-09-23,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,2.54,50,0,177.8,0.0,15.1,18.2,0.83,3,7.7,1,3
+2026-09-24,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),First-Class 4-Day Match,9,54,10.79,1754,614,1007.2,26.6,35.5,16.2,2.19,9,5.6,9,2
+2026-09-24,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,3,18,9.36,1123,281,709.2,28.5,15.0,16.9,0.89,5,8.3,3,2
+2026-09-24,Player 12,Rashid Khan,Right-arm Leg Spinner,Net Session,4,24,9.17,1100,275,713.9,14.3,25.4,23.5,1.08,7,8.0,3,2
+2026-09-24,Player 7,Mitchell Stark,Left-arm Fast Bowler,Net Session,6,36,9.47,1136,284,770.9,25.5,17.7,19.6,0.9,6,7.5,2,2
+2026-09-25,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),First-Class 4-Day Match,9,54,9.84,1457,510,936.0,26.8,38.0,16.2,2.35,10,5.5,9,2
+2026-09-25,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Net Session,7,42,8.21,985,246,700.7,26.2,14.6,15.9,0.92,7,7.1,2,1
+2026-09-25,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,2.97,50,0,207.9,0.0,21.0,25.6,0.82,3,7.2,3,1
+2026-09-25,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,2.45,50,0,171.5,0.0,13.1,18.2,0.72,4,7.5,1,1
+2026-09-26,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Medical Rehab & Physio,0,0,2.29,133,0,171.8,0.0,27.5,17.0,1.62,3,8.3,8,2
+2026-09-26,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,2.49,50,0,174.3,0.0,16.8,16.9,0.99,4,7.4,3,3
+2026-09-26,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,3.73,50,0,261.1,0.0,22.6,25.6,0.88,3,8.4,1,2
+2026-09-26,Player 7,Mitchell Stark,Left-arm Fast Bowler,Match,5,30,10.99,1319,330,859.3,26.6,15.0,17.9,0.84,8,8.2,2,2
+2026-09-27,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Medical Rehab & Physio,0,0,3.12,98,0,234.0,0.0,23.0,17.0,1.35,3,8.7,7,2
+2026-09-27,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,6,36,8.05,966,242,671.5,27.9,12.7,15.1,0.84,6,8.5,1,2
+2026-09-27,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,6,36,6.63,796,199,572.1,15.9,23.6,23.5,1.0,7,8.2,3,3
+2026-09-27,Player 7,Mitchell Stark,Left-arm Fast Bowler,Rest Day,0,0,2.29,50,0,160.3,0.0,19.4,17.0,1.14,2,7.1,2,3
+2026-09-28,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Medical Rehab & Physio,0,0,2.19,128,0,164.2,0.0,18.5,17.0,1.09,3,8.8,6,2
+2026-09-28,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Rest Day,0,0,3.35,50,0,234.5,0.0,11.6,15.0,0.77,4,7.6,3,3
+2026-09-28,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,5,30,10.99,1319,330,859.3,15.7,19.5,24.9,0.78,7,7.1,3,3
+2026-09-28,Player 7,Mitchell Stark,Left-arm Fast Bowler,Net Session,6,36,6.14,737,184,537.8,25.3,13.7,17.5,0.78,4,8.1,3,2
+2026-09-29,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Medical Rehab & Physio,0,0,2.73,87,0,204.8,0.0,14.0,17.0,0.82,3,8.6,5,1
+2026-09-29,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Strength & Conditioning,0,0,2.16,50,0,151.2,0.0,16.5,14.5,1.14,4,7.8,2,2
+2026-09-29,Player 12,Rashid Khan,Right-arm Leg Spinner,Strength & Conditioning,0,0,2.51,50,0,175.7,0.0,22.2,23.8,0.93,3,7.2,3,1
+2026-09-29,Player 7,Mitchell Stark,Left-arm Fast Bowler,Match,5,30,10.81,1297,324,846.7,25.3,19.6,20.0,0.98,8,7.1,1,3
+2026-09-30,Player 9,Arjun Patel,Right-arm Fast Bowler (Express),Medical Rehab & Physio,0,0,4.11,70,0,308.2,0.0,9.5,17.0,0.56,3,8.1,4,2
+2026-09-30,Player 4,Liam Smith,Right-arm Fast-Medium Bowler,Match,3,18,10.89,1307,327,816.3,25.3,15.0,17.0,0.88,5,7.9,2,3
+2026-09-30,Player 12,Rashid Khan,Right-arm Leg Spinner,Match,5,30,9.73,1168,292,771.1,15.6,24.4,25.9,0.94,4,8.3,3,2
+2026-09-30,Player 7,Mitchell Stark,Left-arm Fast Bowler,Strength & Conditioning,0,0,3.51,50,0,245.7,0.0,14.3,17.8,0.8,4,7.3,2,3

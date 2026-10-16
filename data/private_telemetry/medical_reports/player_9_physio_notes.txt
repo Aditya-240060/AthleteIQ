@@ -1,0 +1,72 @@
+CONFIDENTIAL ATHLETE MEDICAL & PHYSIOTHERAPY REPORT
+ATHLETE MANAGEMENT SYSTEM (AMS) - HIGH PERFORMANCE UNIT
+Date: 2026-09-26
+Athlete Name: Arjun Patel
+Player Identifier: Player 9
+Squad: Elite Men's National Squad / Red Ball Pace Unit
+Role: Strike Right-Arm Fast Bowler (Release Speed: 142-147 km/h)
+Lead Physiotherapist: Dr. Kieran Vance, M.Phty, B.Sc (Sports Med)
+Chief Medical Officer: Dr. Evelyn Reed, FACSP, MBBS
+
+--------------------------------------------------------------------------------
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+Athlete Player 9 reported acute, progressively worsening right-sided lower lumbar pain following Day 3 of the 4-day match fixture on September 24, 2026.
+Player bowled a total of 36 overs across 4 days (9 overs on Sept 21, 10 overs on Sept 22, 8 overs on Sept 23, 9 overs on Sept 24).
+Player described an aching sensation during early spells that evolved into sharp, focal pain during delivery stride front-foot plant and follow-through.
+Aggravated by backward bending, active bowling delivery stride, and running impact.
+Subjective morning stiffness lasting >45 minutes. Player took oral ibuprofen (400mg) without symptom resolution.
+
+--------------------------------------------------------------------------------
+2. PHYSICAL & CLINICAL EXAMINATION
+- Posture & Gait: Antalgic gait favoring right lower limb. Mild flattening of lumbar lordosis.
+- Palpation: Extreme focal point tenderness on palpation over the right L4-L5 and L5-S1 pars interarticularis and facet joint capsule. Moderate protective paraspinal muscle spasm on right lumbar erector spinae.
+- Range of Motion:
+  * Lumbar Flexion: Fingertips to mid-shin (80% normal), mild stretch discomfort.
+  * Lumbar Extension: Markedly restricted to 10 degrees (normal ~30 degrees); reproduces acute focal right lower back pain (VAS 8/10).
+  * Right Lateral Flexion + Rotation (Quadrant Kemp's test): Severely positive, reproducing sharp local pain.
+- Provocation Tests:
+  * Stork Test (Single-Leg Hyperextension Test): Standing on right leg with lumbar extension reproduces acute pain at right L5 pars (Positive). Negative when standing on left leg.
+  * Active Straight Leg Raise: Negative bilaterally; no dural tension or sciatic nerve root compression.
+  * Slump Test: Negative bilaterally. Neurological exam (L2-S1 reflexes, sensation, motor strength) intact.
+
+--------------------------------------------------------------------------------
+3. HIGH-SPEED BIOMECHANICAL VIDEO ANALYSIS
+Review of high-speed 240fps broadcast telemetry cameras from delivery stride on Sept 23, 2026:
+- Delivery Action Classification: Mixed bowling action.
+- Pelvic Alignment at Back Foot Contact: Open / semi-front-on (134 degrees).
+- Shoulder Alignment at Back Foot Contact: 102 degrees.
+- Minimum Shoulder Angle prior to Front Foot Contact: 64 degrees.
+- Calculated Shoulder Counter-Rotation: 38 degrees (High Pathological Threshold; literature safe limit <25 degrees).
+- Front Foot Contact: Rigid front knee plant with 7.8x body weight peak ground reaction force and excessive trunk lateral flexion (41 degrees contralateral lean).
+- Biomechanical Summary: Excessive shoulder counter-rotation (38 deg) combined with lateral flexion creates severe shear torsion across the contralateral right L5 pars interarticularis.
+
+--------------------------------------------------------------------------------
+4. IMAGING DIAGNOSTICS (3T MRI LUMBAR SPINE)
+Scanned: Sept 25, 2026 at Apex Orthopaedic Imaging Centre
+Sequences: T1-weighted, T2-weighted, and STIR fat-suppressed sagittal and axial oblique planes.
+Findings:
+- Right L5 Pars Interarticularis: Conspicuous, high-intensity STIR fluid signal (hyperintensity) within the bone marrow of the right L5 neural arch.
+- Cortical Integrity: Cortical margins of the pars remain intact without full cortical fracture separation (Grade 1 active stress reaction / early pre-spondylolytic edema according to Hollenberg classification).
+- Intervertebral Discs: Mild L5-S1 disc dehydration, no herniation or canal stenosis.
+- Impression: Acute Grade 1 bone stress reaction of the right L5 pars interarticularis secondary to mechanical overload and mixed bowling action kinematics.
+
+--------------------------------------------------------------------------------
+5. GPS TELEMETRY & WORKLOAD CORRELATION
+- Chronic Workload Baseline (Past 28 days): 16.2 overs/week.
+- Acute Workload Spike (Past 7 days): 36.0 overs bowled.
+- Acute:Chronic Workload Ratio (ACWR): 1.72 (Danger Zone > 1.50).
+- Catapult PlayerLoad: Day 21-24 combined PlayerLoad exceeded 2,450 units.
+- Summary: Clear uncoupling of acute workload from chronic physical readiness. The spike to ACWR 1.72 directly triggered structural bone stress failure.
+
+--------------------------------------------------------------------------------
+6. MEDICAL IMPRESSION & CLINICAL MANAGEMENT PLAN
+Diagnosis: Acute Right L5 Pars Interarticularis Bone Stress Reaction (Grade 1 Pre-Fracture Edema) with Mixed Action Biomechanical Trigger.
+Treatment & Return to Play (RTP) Protocol:
+1. Immediate Bowling Deload: Complete cessation of bowling and high-speed running for a minimum of 4 to 6 weeks.
+2. Low-Impact Cross-Training: Wattbike cycling in neutral spine posture, seated upper body resistance, and water aerobics.
+3. Rehabilitation: Core lumbopelvic stability (transversus abdominis, multifidus activation), gluteal strength, thoracic mobility.
+4. Biomechanical Modification: Technical retraining with bowling coach to eliminate shoulder counter-rotation (target <22 degrees) by aligning pelvic approach vectors.
+5. Follow-Up: Repeat 3T MRI at Week 6. Graded bowling progression strictly adhering to Gabbett ACWR sweet spot (0.8 - 1.25) before competitive match clearance.
+Signed:
+Dr. Kieran Vance, Lead Physio
+Dr. Evelyn Reed, Chief Sports Physician
